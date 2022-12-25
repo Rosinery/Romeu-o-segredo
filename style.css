@@ -52,7 +52,7 @@ h2 {
 .parallax-inner {
 
     display: table-cell;
-    text-align:center;
+    vertical-align:text-top;
 }
 
 .menu {
