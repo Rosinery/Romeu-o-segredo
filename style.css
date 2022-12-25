@@ -52,7 +52,7 @@ h2 {
 .parallax-inner {
 
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .menu {
@@ -87,7 +87,7 @@ img{
 
 #imagens a {
     text-decoration: underline !important;
-    color: green !important;
+    color: rgb(0, 13, 128) !important;
 }
 
 #contact{
@@ -101,5 +101,9 @@ img{
 .contact_1 h3
 {
     display: inline;
+    color: #000;
+}
+i{
+    color: #000;
 }
 
